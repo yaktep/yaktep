@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yakir 👋
 
-<!--
-**yaktep/yaktep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer building mobile, backend, geospatial and AR systems.
 
-Here are some ideas to get you started:
+I enjoy building end-to-end products where software meets the physical world — combining location, routing, mobile experiences and augmented reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+- React Native · TypeScript · JavaScript
+- Node.js · REST APIs · PostgreSQL
+- Python
+- Kotlin · ARCore
+- OpenStreetMap · Valhalla
+- Git · Docker · Railway
+
+### Currently building
+
+A location-based mobile game combining real-world navigation, AR interactions, geospatial data and backend infrastructure.
